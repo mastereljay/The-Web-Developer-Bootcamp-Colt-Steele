@@ -17,7 +17,9 @@ h2 {
 }
 
 /* Make all <li> elements blue(pick your own hexadecimal blue)*/ 
-
+li {
+    color: #282186;
+}
 
 /*Change the background on every paragraph to be yellow*/
 
