@@ -6,11 +6,10 @@ img {
 
 h2 {
 	font-family: 'Raleway', sans-serif;
-	margin-left: 1.66%;
 	font-size: 23px;
 	font-weight: 800;
 	text-transform: uppercase;
 	border-bottom: 2px solid #f1f1f1;
 	padding-bottom: 1px;
-	margin-bottom: 5px;
+	margin: 5px 0 5px 1.66%;
 }
